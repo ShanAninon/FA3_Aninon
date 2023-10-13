@@ -21,8 +21,7 @@ p {
     background-color: hsl(205°, 38%, 65%);
     font-style: italic;
     padding: 20px;
-    border: 3px solid black;
-    border-style: double solid;
+    border: 3px double black;
     width: 500px;
     margin: 0px auto;
 }
