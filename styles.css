@@ -7,6 +7,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     background-color: #b0fff8;
     font-family: Gill Sans, sans-serif;
     border: 2px dotted blue;
