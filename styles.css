@@ -1,0 +1,33 @@
+body {
+    background-image: url("unnamed.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    background-color: #b0fff8;
+    font-family: Gill Sans, sans-serif;
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin: 20px auto;
+}
+
+p {
+    text-align: justify;
+    background-color: hsl(120, 60%, 70%);
+    font-style: italic;
+    padding: 20px;
+    border: 3px solid black;
+    border-style: dotted double dashed solid;
+    width: 500px;
+    margin: 0px auto;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(222, 44, 68);
+    margin: 2px 5px;
+}
