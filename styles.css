@@ -18,12 +18,12 @@ h1 {
 
 p {
     text-align: justify;
-    background-color: hsl(205, 38, 65);
+    background-color: hsl(205, 38%, 65%);
     font-style: italic;
     padding: 20px;
     border: 3px double black;
     width: 500px;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 span {
